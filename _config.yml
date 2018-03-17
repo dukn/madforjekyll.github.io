@@ -1,3 +1,21 @@
+#### Exclude
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+
+#### Code Highlighter
+highlighter: pygments
+
+#### Permalink
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:categories/:year/:month/:day/:title
+
+#### Markdown Processors
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+
 # Site settings
 title: "Duc Nguyen"
 description: Little things
