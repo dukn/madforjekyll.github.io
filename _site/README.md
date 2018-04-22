@@ -1,4 +1,1 @@
-### Clean Theme
-
-![Alt text](screen.png)
-
+# Duc's blog

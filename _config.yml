@@ -3,7 +3,7 @@ title: Duc's Blog
 email: nguyentanduc96@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Life is short, smile while you still have teeth! :)))
-baseurl: "/" # the subpath of your site, e.g. /blog/
+#baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dukn.github.io" # the base hostname & protocol for your site
 twitter_username: ducbk14
 github_username:  dukn
